@@ -8,7 +8,7 @@ This project implements an advanced machine learning pipeline designed to detect
 ## 🚀 Key Features
 * **Scalable Data Pipeline:** Processed 2.8M+ records using **Stratified Sampling** to ensure statistical representation of rare attack classes.
 * **Feature Engineering:** Conducted correlation analysis to remove redundant features, reducing dimensionality by 30% to optimize inference speed.
-* **Class Imbalance Handling:** Implemented **SMOTE** (Synthetic Minority Over-sampling Technique) to synthesize minority attack samples, ensuring a robust detection rate
+* **Class Imbalance Handling:** Implemented **SMOTE** (Synthetic Minority Over-sampling Technique) to synthesize minority attack samples, ensuring a robust detection rate.
 * **Hybrid Benchmarking:** Evaluated performance across Gradient Boosting (XGBoost), Random Forests, and Deep Learning (MLP) architectures.
 
 ## 📊 Performance Results
