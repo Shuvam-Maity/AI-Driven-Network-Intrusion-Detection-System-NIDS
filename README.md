@@ -1,4 +1,4 @@
-# AI-Driven Network Intrusion Detection System (NIDS)
+# AI-Driven Network Intrusion Detection System (NIDS
 
 ## 🛡️ Project Overview
 This project implements an advanced machine learning pipeline designed to detect and classify malicious network traffic. Utilizing the **CIC-IDS2017** dataset, the system distinguishes between benign activity and 15 varieties of cyberattacks (including DDoS, Botnets, and Brute Force) with high precision.
